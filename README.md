@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mir Abdul Akif 👋
 
-<!--
-**Akif0069/Akif0069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student at BRAC University  
+💻 Interested in Web Development and Software Engineering
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- PHP
+- Verilog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Pokemon Information Website  
+https://akif0069.github.io/Sample-Web/
+
+## Currently Learning
+- Artificial Intelligence
+- Computer Architecture
+- VLSI Design
+
+## Connect With Me
+Email: mirabdulakif@gmail.com
