@@ -16,10 +16,5 @@
 🔹 Pokemon Information Website  
 https://akif0069.github.io/Sample-Web/
 
-## Currently Learning
-- Artificial Intelligence
-- Computer Architecture
-- VLSI Design
-
 ## Connect With Me
 Email: mirabdulakif@gmail.com
